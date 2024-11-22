@@ -1,0 +1,2 @@
+1;Inneke;Jl. Kasturi;Banjarbaru;1234567890
+2;Aldina;Jl. Anggur;Banjarbaru;2345678901
